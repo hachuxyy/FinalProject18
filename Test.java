@@ -4,6 +4,5 @@ public class Test {
         System.out.println("Ini galang yang menulis");
         System.out.println("Galang sedang mengerjakan tugas praktikum daspro");
         System.out.println("Haqi Melakukan Penambahan Code");
-        System.out.println("Perubahan ini diedit oleh Galang");
     }
 }
